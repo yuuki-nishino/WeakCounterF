@@ -9,8 +9,8 @@ There are several directories within the data directory.<br>
 The "raw_data" folder contains raw data for use in pre-training and testing.<br>
 The folder "few-shot_data" contains raw data for fine tuning.<br>
 The other folders are empty, but each program for Data Augmentation, Label Diversification, and extraction of a single movement will contain the corresponding data in the folders.
-- The "augmented_data" folder contains data that has undergone Data Augmentation.
-- The "double", "triple", and "plus" folders contain data that has undergone Label Diversification.
+- The "augmented_data" folder contains data that Data Augmentation has been applied.
+- The "double", "triple", and "plus" folders contain data that Label Diversification has been applied.
 - The "one_timeaction_opt" folder stores the data extracted for one operation from the data in "few-shot_data".
 - The "pre-trained_model" folder contains model weight files such as pre-trained models.
 
