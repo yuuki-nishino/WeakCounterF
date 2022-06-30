@@ -1,4 +1,3 @@
-bob@20e01a16bd6e:~$ pip freeze
 absl-py==0.14.1
 anyio==3.1.0
 argon2-cffi==20.1.0
